@@ -20,3 +20,9 @@ A Flutter news application that fetches and displays articles from a public API.
   - Open source link (if available)
 - **Responsive UI**
   - Works nicely across different screen sizes
+
+---
+
+## 🎥 Demo Video
+
+[![Watch the demo video](https://img.youtube.com/vi/dBIdNRcn7fY/0.jpg)](https://youtube.com/shorts/dBIdNRcn7fY)
