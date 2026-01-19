@@ -1,16 +1,22 @@
-# news_project
+# Flutter News App 🗞️📱
 
-A new Flutter project.
+A Flutter news application that fetches and displays articles from a public API. Includes **Splash**, **Sign In**, and **Sign Up** views to simulate authenticated user access. Users can browse news by category, read full articles, and enjoy a responsive and organized UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Splash Screen** (app branding + loading flow)
+- **Authentication UI (Simulation)**
+  - Sign In
+  - Sign Up
+- **News Feed From Public API**
+  - Fetch latest articles
+  - Organized list layout
+- **Browse by Category**
+  - Select category and load related articles
+- **Article Details Page**
+  - Read full article content
+  - Open source link (if available)
+- **Responsive UI**
+  - Works nicely across different screen sizes
